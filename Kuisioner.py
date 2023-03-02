@@ -96,6 +96,56 @@ async def main():
     #     print(soup.prettify())
 
     # await browser.close()
-
+VM041103 - Matematika 1   				#matakuliah > option:nth-child(2)
+VM041104 - Standar Internasional dan K3             
+VM041105 - Sistem Pengukuran
+VM041106 - Mekanika Statika
+VM041107 - Ilmu Material
+VM041108 - Rangkaian Listrik 1
+VM041109 - Praktikum Sistem Pengukuran
+VM041110 - Praktikum Rangkaian Listrik 1
+VM041111 - Workshop Gambar Teknik 
+VM041112 - Workshop Pemrograman 1        
+VM041201 - Agama        
+VM041202 - Konsep dan Wawasan Teknologi        
+VM042101 - Matematika 2        
+VM042102 - Perancangan Mekanika        
+VM042103 - Mekanika Dinamika        
+VM042104 - Rangkaian Listrik 2        
+VM042105 - Elektronika Analog 1        
+VM042106 - Elektronika Digital 1        
+VM042107 - Elektronika Analog 1        
+VM042107 - Rangkaian Listrik 2        
+VM042108 - Praktikum Elektronika Digital 1        
+VM042109 - Workshop Gambar Mesin        
+VM042110 - Bengkel Manufaktur 1        
+VM042111 - Workshop Pemograman 2        
+VM043101 - Kendali Otomatis 1        
+VM043102 - Matematika 3        
+VM043103 - Mekanika Getaran        
+VM043104 - Elektronika Analog 2        
+VM043105 - Elektronika Digital 2        
+VM043106 - Sistem Mikroprosesor        
+VM043107 - Praktikum Sistem Mikroprosesor        
+VM043108 - Praktikum Kendali Otomatis 1        
+VM043109 - Elektronika Analog 2        
+VM043109 - Elektronika Digital 2        
+VM043110 - Workshop Bengkel Elektronika        
+VM043111 - Workshop Bengkel Manufaktur 2        
+VM043112 - Workshop Pemograman 3        
+VM044101 - Robotika 1        
+VM044102 - Kendali Otomatis 2        
+VM044103 - Mekanika Fluida        
+VM044104 - Instalasi Industri        
+VM044105 - Elektronika Daya        
+VM044106 - Mikrokontroler dan Sistem Antarmuka        
+VM044107 - Kendali Otomatis 2        
+VM044107 - Robotika 1        
+VM044108 - Praktikum Mikrokontroler dan Sistem Antarmuka        
+VM044109 - Elektronika Daya        
+VM044109 - Instalasi Industri        
+VM044110 - Workshop CNC1        
+VM044111 - Workshop Pengolahan Sinyal        
+VM044112 - Workshop Metode Numerik               
 
 asyncio.get_event_loop().run_until_complete(main())
